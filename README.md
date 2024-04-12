@@ -1,2 +1,3 @@
 - CD 확인용 commit5
 - check the ecr works
+- Chec if it works after fix the environment variables
